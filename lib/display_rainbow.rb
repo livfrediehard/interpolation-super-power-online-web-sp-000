@@ -2,8 +2,8 @@
 # display_rainbow = (['red', 'orange', 'yellow', "green", "blue", 'indigo', "violet"])
 
 
-colors = (['red', 'orange', 'yellow', "green", "blue", 'indigo', "violet"])
-
+color = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+  puts "R: #{color[0]}, "
 
 
 
